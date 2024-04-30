@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
+  <img src="Abdo_ka.jpg" alt="Abdo_ka" width="100%">
+</div>
 
-<!--
-**Abdo-ka/Abdo-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, World! 👋  <sub><sup><sub>(He/Him)</sup></sub></sub>
 
-Here are some ideas to get you started:
+I'm a passionate, solution-oriented software engineer with expertise in software development.I specialize in crafting scalable applications Mobile. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Toolkit 🛠️
+
+Here's a quick overview of the technologies I frequently use:
+
+- **Programming Languages:** Dart C++
+- **Databases:** Node.js Express
+- **Frameworks & Libraries:** Node.js
+- **Operating Systems & Version Control:** Git, Linux , windows
+- **UI Libraries:** Material UI 
+
+## Let's Innovate Together! 💡
+
+I thrive on new challenges and opportunities that lead to the creation of innovative solutions. Whether you're in need of a robust backend, a user-friendly frontend, or a comprehensive full-stack application, I'm your developer. Let's collaborate to bring your vision to fruition! ✨
+
+## Fun Facts 🎉
+
+- I'm a self-proclaimed coffee connoisseur ☕
+- I'm a lazy man so I prefer to work from Home 🛖
+- I'm a big fan for traveling and exploring new places around the world 🌍
+- If I were not a developer, I would probably be a chef, as I have a passion for cooking! 🍳
+
+You can reach me via [Email](mailto:kanawatiabdalrahman@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abd-alrahman-kanawati-56322b228) to discuss your project or any potential collaborations. Together, we can code and make the world a better place, one line at a time. 😄
+
+
